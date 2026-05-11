@@ -18,6 +18,9 @@ data
 /aws/
 /assets/aws/
 /assets/powerauto
+/snowflake
+/pyspark
+
 
 azure/azure-dataengg-access.md
 fabric/notes-guides/dp-600-access.md
@@ -26,3 +29,9 @@ azure/azure-fundamentals-schedule.pdf
 fabric/fabric-analyst
 powerautomate
 sqlserver
+assets/azure/dataengg
+assets/ai102
+assets/generic
+assets/dp100
+powerbi/PL300
+powerbi/themes
